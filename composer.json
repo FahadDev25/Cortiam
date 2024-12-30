@@ -1,0 +1,6 @@
+{
+    "require": {
+        "stripe/stripe-php": "^9.6",
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
